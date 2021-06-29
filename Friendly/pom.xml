@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.manuanand</groupId>
-	<artifactId>taskpro</artifactId>
+	<artifactId>friendly</artifactId>
 	<version>0.10</version>
-	<name>TaskPro</name>
-	<description>Simplistic Project Management Clone</description>
+	<name>Friendly</name>
+	<description>Simple Social Networking App</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

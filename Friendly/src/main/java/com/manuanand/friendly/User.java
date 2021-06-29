@@ -1,4 +1,4 @@
-package com.manuanand.taskpro;
+package com.manuanand.friendly;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
